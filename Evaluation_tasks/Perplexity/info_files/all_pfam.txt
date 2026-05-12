@@ -1,0 +1,610 @@
+1079	PF13439	0.5		
+1103	PF01381	0.5		
+1105	PF00106	0.5		
+1106	PF07714	0.5				kinase
+1107	PF13855	0.5		
+1108	PF00078	0.5		
+1109	PF13181	0.5		
+1110	PF00149	0.5		
+1111	PF08447	0.5		
+1112	PF00989	0.5		
+1113	PF00646	0.5		
+1114	PF00561	0.5		
+1115	PF00270	0.5		
+1116	PF12697	0.5		
+1126	PF13639	0.5		
+1150	PF13193	0.5		g_mix = low
+1151	PF07885	0.5				icon channel
+1152	PF07562	0.9				GPCR
+1153	PF10613	0.9				icon channel
+1154	PF00060	0.9				icon channel
+1155	PF02932	0.9				icon channel
+1156	PF02931	0.9				icon channel
+1161	PF00294	0.5				kinase
+1162	PF00781	0.5				kinase
+1163	PF00288	0.5				kinase
+1164	PF02782	0.9				kinase
+1165	PF05978	0.9				icon channel
+1171	PF01202	0.9		g_mix = low	kinase
+1172	PF00370	0.9				kinase
+1176	PF19279	0.9				kinase
+1177	PF03109	0.9				kinase
+1178	PF08544	0.9		g_mix = bond	kinase
+1179	PF00696	0.9		g_mix = low	kinase
+1180	PF01121	0.9		g_mix = low	kinase
+1181	PF01256	0.9		g_mix = bond	kinase
+1182	PF00625	0.9		g_mix = bond	kinase 	
+1183	PF16561	0.9			 	kinase
+1185	PF01687	0.9		g_mix = bond	kinase
+1186	PF02223	0.9			 	kinase
+1187	PF00485	0.9		g_mix = bond	kinase 	
+1188	PF01504	0.9		g_mix = low	kinase 	
+1189	PF04263	0.9				kinase
+1190	PF04265	0.9			 	kinase
+1191	PF01513	0.9			 	kinase
+1193	PF03770	0.9		g_mix = bond	kinase
+1194	PF00224	0.9		g_mix = up	kinase 	
+1195	PF02816	0.9		g_mix = low	kinase
+1196	PF00334	0.9		g_mix = bond	kinase 	
+1197	PF03881	0.9			 	kinase
+1198	PF00433	0.9			 	kinase
+1205	PF08543	0.9		g_mix = bond	kinase
+1206	PF00365	0.9		g_mix = bond	kinase
+1207	PF10509	0.9			 	kinase
+1208	PF00069	0.5			 	kinase 	
+1209	PF02887	0.9		g_mix = bond	kinase
+1210	PF03727	0.9		g_mix = bond	kinase
+1211	PF00349	0.9		g_mix = bond	kinase
+1212	PF01712	0.9		g_mix = bond	kinase
+1213	PF13793	0.9				kinase
+1214	PF08645	0.9				kinase
+1215	PF00609	0.9				kinase
+1217	PF02518	0.5				kinase 	
+1218	PF05191	0.9				kinase
+1220	PF10436	0.9			 	kinase
+1221	PF01591	0.9			 	kinase
+1222	PF00265	0.9			 	kinase
+1224	PF08332	0.9		g_mix = bond	kinase
+1226	PF00821	0.9			 	kinase
+1228	PF17297	0.9			 	kinase
+1230	PF00005	0.5		g_mix = bond 	transporter	 
+1231	PF00293	0.5		
+1234	PF13649	0.5		
+1235	PF12937	0.5		
+1236	PF00651	0.5		
+1237	PF08241	0.5		
+1238	PF00226	0.5		
+1242	PF13426	0.5		
+1244	PF00082	0.5		
+1245	PF00027	0.5						
+1249	PF01476	0.5		
+1250	PF00892	0.5		g_mix = bond
+1251	PF00664	0.5		g_mix = bond
+1252	PF00001	0.5		
+1253	PF04055	0.5		
+1254	PF00089	0.5		
+1255	PF00004	0.5		
+1256	PF00931	0.5		
+1257	PF13419	0.5		
+1258	PF00753	0.5		g_mix = bond
+1259	PF01636	0.5		
+1260	PF13302	0.5		
+1261	PF00083	0.5		
+1262	PF00498	0.5		
+1263	PF00249	0.5		
+1264	PF07992	0.5		
+1265	PF13637	0.5		
+1267	PF12146	0.5		
+1268	PF13185	0.5		
+1271	PF00144	0.5		
+1281	PF01551	0.5		
+1312	PF01370	0.5		
+1344	PF01535	0.5		
+1347	PF00856	0.5		
+1348	PF13472	0.5		
+1349	PF13516	0.5		
+1350	PF00010	0.5		
+1351	PF01494	0.5		
+1355	PF01590	0.5		
+1356	PF00085	0.5		
+1357	PF00155	0.5		
+1358	PF00046	0.5		
+1359	PF00581	0.5		
+1360	PF00059	0.5		
+1390	PF02517	0.5		
+1392	PF00300	0.5		
+1393	PF03372	0.5		
+1395	PF07679	0.5		g_mix = low			
+1396	PF00098	0.5		
+1397	PF07686	0.5		
+1398	PF00884	0.5		
+1399	PF13041	0.5		
+1417	PF01966	0.5		g_mix = bond
+1418	PF00571	0.5		g_mix = bond
+1460	PF00168	0.5		
+1461	PF08238	0.5		
+1462	PF01266	0.5		
+1463	PF01926	0.5		
+1506	PF13673	0.5		
+1507	PF00107	0.5		g_mix = low			 
+1539	PF01569	0.5		
+1540	PF13499	0.5		
+1542	PF00578	0.5		g_mix = bond
+1543	PF00169	0.5		
+1544	PF02163	0.5		
+1545	PF17921	0.5		
+1546	PF00023	0.5		
+1547	PF00188	0.5		
+1548	PF01408	0.5		
+1549	PF00071	0.5		
+1550	PF01391	0.5		
+1551	PF00443	0.5		
+1562	PF00092	0.5		
+1563	PF00211	0.5		
+1564	PF01753	0.5		
+1570	PF00665	0.5		
+1571	PF01471	0.5		
+1572	PF08240	0.5		
+1573	PF01565	0.5		
+1574	PF07859	0.5		
+1575	PF00903	0.5		g_mix = bond
+1578	PF00378	0.5		g_mix = bond
+1579	PF00520	0.5		g_mix = low
+1580	PF00515	0.5		
+1582	PF00248	0.5		
+1583	PF07690	0.5		
+1584	PF12796	0.5		
+1585	PF00400	0.5		
+1586	PF00096	0.5		
+1587	PF00583	0.5		
+1588	PF00535	0.5		
+1589	PF00076	0.5		
+1590	PF00271	0.5		g_mix = low
+1591	PF00534	0.5		
+1593	PF00067	0.5		
+1595	PF00501	0.5		g_mix = low
+1596	PF00326	0.5		g_mix = bond
+1597	PF00225	0.5		g_mix = low
+1598	PF00628	0.5		g_mix = low
+1599	PF01061	0.5		g_mix = bond
+1600	PF01979	0.5		
+1601	PF00018	0.5		
+1603	PF01841	0.5		g_mix = bond
+1604	PF01546	0.5		
+1605	PF00153	0.5		
+1606	PF13360	0.5		
+1607	PF00135	0.5		
+1608	PF17919	0.5		
+1609	PF01553	0.5		
+1610	PF13202	0.5		
+1611	PF01593	0.5		
+1614	PF00097	0.5		
+1716	PF05699	0.5		
+1738	PF01734	0.5		
+1739	PF03061	0.5		
+1740	PF00595	0.5		
+1741	PF07228	0.5		
+1742	PF07719	0.5		
+1743	PF13517	0.5		g_mix = low
+1749	PF13180	0.5		
+1750	PF01554	0.5		
+1751	PF13361	0.5		g_mix = bond
+1752	PF13306	0.5		
+1753	PF00011	0.5		
+1803	PF13229	0.5		g_mix = low
+1804	PF00403	0.5		g_mix = bond
+1805	PF17820	0.5		
+1806	PF00505	0.5		
+1807	PF01261	0.5		
+1808	PF00201	0.5		
+1811	PF13857	0.5		
+1812	PF00171	0.5		g_mix = bond
+1813	PF07687	0.5		
+1814	PF00805	0.5		
+1815	PF13460	0.5		
+1816	PF00480	0.5		g_mix = bond
+1817	PF00254	0.5		
+1821	PF00034	0.5		g_mix = bond
+1822	PF00929	0.5		
+1823	PF00355	0.5		g_mix = bond
+1824	PF01694	0.5		
+1825	PF00620	0.5		
+1826	PF09335	0.5		
+1827	PF00999	0.5		
+1828	PF00704	0.5		
+1829	PF00026	0.5		
+1830	PF00240	0.5		
+1831	PF08239	0.5		
+1832	PF00849	0.5		
+1833	PF00415	0.5		
+1834	PF01344	0.5		
+1835	PF01740	0.5		g_mix = bond
+1836	PF01425	0.5		
+1838	PF02902	0.5		
+1839	PF13847	0.5		
+1942	PF04851	0.5		
+1943	PF02826	0.5		g_mix = bond
+1944	PF13520	0.5		
+1945	PF00175	0.5		
+1946	PF13476	0.5		g_mix = bond
+1947	PF00364	0.5		g_mix = bond
+1949	PF00566	0.5		
+1950	PF12705	0.5		g_mix = bond
+1951	PF00795	0.5		g_mix = bond
+1952	PF03572	0.5		
+1953	PF00642	0.5		
+1954	PF05193	0.5		g_mix = bond
+1955	PF00012	0.5		
+1956	PF00128	0.5		
+1957	PF00156	0.5		
+1958	PF02894	0.5		
+1960	PF00266	0.5		
+1961	PF00170	0.5		
+1962	PF01648	0.5		
+1963	PF00881	0.5		
+1964	PF01594	0.5				transporter
+1965	PF01490	0.5				transporter
+1966	PF00361	0.5			 	transporter
+1967	PF02149	0.9				kinase
+1968	PF01214	0.9				kinase
+1969	PF02535	0.9				transporter
+1970	PF19055	0.9		g_mix = low	transporter
+1971	PF03600	0.9		g_mix = bond	transporter
+1972	PF03151	0.9			 	transporter
+1973	PF00909	0.9			 	transporter
+1975	PF04145	0.9			 	transporter
+1976	PF12848	0.9		g_mix = bond	transporter
+1977	PF14703	0.9			 	transporter
+1978	PF04515	0.9			 	transporter
+1979	PF02690	0.9		g_mix = bond	transporter
+1980	PF03083	0.9			 	transporter
+1981	PF05653	0.9			 	transporter
+1982	PF01769	0.9			 	transporter
+1983	PF06541	0.9			 	transporter
+1984	PF03619	0.9			 	transporter
+1985	PF03137	0.9			 	transporter
+1986	PF04142	0.9			 	transporter
+1987	PF01384	0.9			 	transporter
+1988	PF08449	0.9			 	transporter
+1989	PF06472	0.9			 	transporter
+1990	PF01733	0.9			 	transporter
+1991	PF07970	0.9			 	transporter
+1992	PF00955	0.9		g_mix = bond	transporter
+1993	PF13593	0.9			 	transporter
+1994	PF07662	0.9			 	transporter
+1995	PF01773	0.9		g_mix = bond	transporter
+1996	PF00002	0.9	 		 	receptor 
+1997	PF00530	0.9			 	receptor
+1998	PF00104	0.9			 	receptor
+1999	PF00003	0.9		g_mix = bond	receptor
+2000	PF13853	0.9				receptor
+2001	PF02793	0.9		g_mix = bond	receptor
+2002	PF06814	0.9				receptor
+2003	PF09294	0.9		g_mix = bond	receptor
+2004	PF04253	0.9				receptor 
+2005	PF00810	0.9				receptor 
+2006	PF03402	0.9			 	receptor
+2007	PF01404	0.9				receptor
+2008	PF00057	0.5				receptor 
+2009	PF01094	0.5				receptor
+2127	PF07885	0.9				
+2128	PF01594	0.9				
+2129	PF00781	0.9		g_mix = bond	
+2130	PF01490	0.9				
+2132	PF01061	0.9		g_mix = bond			 
+2133	PF00294	0.9				
+2134	PF00361	0.9				
+2135	PF00083	0.9						
+2137	PF00288	0.9		g_mix = bond	
+2200	PF00892	0.9		g_mix = bond			
+2246	PF01094	0.9				
+2247	PF00057	0.9				
+2270	PF00664	0.9		g_mix = bond			
+2271	PF00001	0.9						
+2272	PF07714	0.9						
+2294	PF00067	0.9						
+2295	PF02518	0.9						
+2296	PF00069	0.9						
+2297	PF00520	0.9		g_mix = low			
+2546	PF00162	0.9				kinase
+2308	PF01352	0.5		g_mix = bond	human_uniprot_num>15
+2309	PF00017	0.5				human_uniprot_num>15
+2310	PF00622	0.5				human_uniprot_num>15
+2311	PF13895	0.5				human_uniprot_num>15
+2313	PF00038	0.9				human_uniprot_num>15
+2314	PF14604	0.5				human_uniprot_num>15
+2316	PF00307	0.5		g_mix = low	human_uniprot_num>15
+2317	PF00643	0.5				human_uniprot_num>15
+2318	PF00536	0.5				human_uniprot_num>15
+2319	PF00084	0.5				human_uniprot_num>15
+2320	PF00431	0.5				human_uniprot_num>15
+2321	PF00787	0.5				human_uniprot_num>15
+2322	PF00179	0.5				human_uniprot_num>15
+2323	PF00102	0.5				human_uniprot_num>15
+2324	PF00079	0.5				human_uniprot_num>15
+2325	PF00412	0.5				human_uniprot_num>15
+2326	PF00047	0.9				human_uniprot_num>20
+2327	PF08266	0.9				human_uniprot_num>15
+2328	PF07654	0.9		g_mix = bond	human_uniprot_num>15
+2332	PF07707	0.9				human_uniprot_num>15
+2333	PF02023	0.9				human_uniprot_num>15
+2334	PF07653	0.9		g_mix = low	human_uniprot_num>15
+2335	PF00250	0.9				human_uniprot_num>15
+2336	PF02214	0.9		g_mix = bond	human_uniprot_num>15
+2337	PF00130	0.9		g_mix = low	human_uniprot_num>15
+2338	PF00125	0.9				human_uniprot_num>15
+2339	PF00373	0.9		g_mix = low	human_uniprot_num>15
+2340	PF00105	0.9				human_uniprot_num>15
+2341	PF00048	0.9				human_uniprot_num>15
+2342	PF13765	0.9		g_mix = bond	human_uniprot_num>15
+2343	PF00612	0.9		g_mix = low	human_uniprot_num>15
+2344	PF01562	0.9				human_uniprot_num>15
+2345	PF01421	0.9		g_mix = low	human_uniprot_num>15
+2346	PF07647	0.9				human_uniprot_num>15
+2347	PF00019	0.9				human_uniprot_num>15
+2348	PF00615	0.9				human_uniprot_num>15
+2349	PF00788	0.9		g_mix = low	human_uniprot_num>15
+2350	PF00822	0.9				human_uniprot_num>15
+2351	PF00397	0.5				human_uniprot_num>15
+2352	PF00782	0.5				human_uniprot_num>15
+2353	PF00013	0.5				human_uniprot_num>15
+2354	PF00685	0.5				human_uniprot_num>15
+2355	PF00134	0.5				human_uniprot_num>15
+2356	PF07525	0.9				human_uniprot_num>15
+2357	PF00061	0.9				human_uniprot_num>15
+2358	PF00335	0.9				human_uniprot_num>15
+2359	PF13833	0.9				human_uniprot_num>15
+2360	PF00022	0.9				human_uniprot_num>15
+2361	PF07648	0.9				human_uniprot_num>15
+2362	PF00531	0.9		g_mix = low	human_uniprot_num>15
+2363	PF00025	0.9				human_uniprot_num>15
+2364	PF00386	0.9				human_uniprot_num>15
+2365	PF00617	0.9		g_mix = low	human_uniprot_num>15
+2366	PF01412	0.9				human_uniprot_num>15
+2367	PF00178	0.9				human_uniprot_num>15
+2368	PF00514	0.9				human_uniprot_num>15
+2369	PF08205	0.9				human_uniprot_num>15
+2370	PF00619	0.9		g_mix = bond	human_uniprot_num>15
+2371	PF12662	0.9		g_mix = low	human_uniprot_num>15
+2372	PF09379	0.9				human_uniprot_num>15
+2373	PF00627	0.9				human_uniprot_num>15
+2374	PF01284	0.9				human_uniprot_num>15
+2375	PF00640	0.9				human_uniprot_num>15
+2376	PF09380	0.9				human_uniprot_num>15
+2377	PF17862	0.9		g_mix = bond	human_uniprot_num>15
+2378	PF00147	0.9				human_uniprot_num>15
+2379	PF00091	0.9				human_uniprot_num>15
+2380	PF01363	0.5				human_uniprot_num>15
+2383	PF00385	0.5				human_uniprot_num>15
+2384	PF00160	0.5				human_uniprot_num>15
+2385	PF01529	0.5				human_uniprot_num>15
+2386	PF01585	0.5				human_uniprot_num>15
+2387	PF00246	0.5				human_uniprot_num>15
+2388	PF00413	0.9				human_uniprot_num>15
+2389	PF00045	0.9				human_uniprot_num>15
+2390	PF01392	0.9				human_uniprot_num>15
+2391	PF00610	0.9				human_uniprot_num>15
+2392	PF00020	0.9				human_uniprot_num>15
+2393	PF03953	0.9				human_uniprot_num>15
+2394	PF00855	0.9		g_mix = low	human_uniprot_num>15
+2395	PF00233	0.9				human_uniprot_num>15
+2396	PF01477	0.9		g_mix = low	human_uniprot_num>15
+2397	PF00611	0.9				human_uniprot_num>15
+2398	PF00956	0.9				human_uniprot_num>15
+2399	PF00688	0.9				human_uniprot_num>15
+2400	PF01582	0.9				human_uniprot_num>15
+2401	PF00777	0.9				human_uniprot_num>15
+2402	PF00200	0.9				human_uniprot_num>15
+2403	PF00454	0.9		g_mix = low	human_uniprot_num>15
+2404	PF00209	0.9				human_uniprot_num>15
+2405	PF01423	0.9				human_uniprot_num>15
+2406	PF01839	0.9		g_mix = bond	human_uniprot_num>15
+2407	PF00227	0.9				human_uniprot_num>15
+2408	PF02759	0.9				human_uniprot_num>15
+2409	PF00129	0.9				human_uniprot_num>15
+2410	PF08516	0.9				human_uniprot_num>15
+2411	PF04408	0.9		g_mix = low	human_uniprot_num>15
+2412	PF00194	0.9				human_uniprot_num>15
+2413	PF05920	0.9				human_uniprot_num>15
+2414	PF00629	0.9		g_mix = low	human_uniprot_num>15
+2415	PF02893	0.9				human_uniprot_num>15
+2416	PF00031	0.9		g_mix = bond	human_uniprot_num>15
+2417	PF00051	0.9				human_uniprot_num>15
+2418	PF00009	0.5				human_uniprot_num>15
+2419	PF00481	0.5				human_uniprot_num>15
+2420	PF12894	0.5				human_uniprot_num>15
+2421	PF02225	0.5				human_uniprot_num>15
+2422	PF02037	0.9				human_uniprot_num>15
+2423	PF00014	0.9				human_uniprot_num>15
+2424	PF00230	0.9				human_uniprot_num>15
+2425	PF00569	0.9		g_mix = low	human_uniprot_num>15
+2426	PF01399	0.9		g_mix = bond	human_uniprot_num>15
+2427	PF00100	0.9				human_uniprot_num>15
+2428	PF07717	0.9		g_mix = bond	human_uniprot_num>15
+2429	PF00907	0.9				human_uniprot_num>15
+2430	PF00086	0.9		g_mix = bond	human_uniprot_num>15
+2431	PF00035	0.9				human_uniprot_num>15
+2432	PF00644	0.9				human_uniprot_num>15
+2433	PF02984	0.9				human_uniprot_num>15
+2434	PF01762	0.9				human_uniprot_num>15
+2435	PF03798	0.9		g_mix = bond	human_uniprot_num>15
+2436	PF00641	0.9				human_uniprot_num>15
+2437	PF00118	0.9				human_uniprot_num>15
+2438	PF12947	0.9		g_mix = low	human_uniprot_num>15
+2439	PF00503	0.9				human_uniprot_num>15
+2440	PF00388	0.9		g_mix = bond	human_uniprot_num>15
+2441	PF00337	0.9		g_mix = bond	human_uniprot_num>15
+2442	PF00648	0.9				human_uniprot_num>15
+2443	PF01852	0.9				human_uniprot_num>15
+2444	PF00036	0.9				human_uniprot_num>15
+2445	PF00387	0.9		g_mix = bond	human_uniprot_num>15
+2446	PF01217	0.9		g_mix = bond	human_uniprot_num>15
+2447	PF02493	0.5				human_uniprot_num>15
+2448	PF00560	0.5				human_uniprot_num>15
+2449	PF00350	0.5				human_uniprot_num>15
+2450	PF02798	0.5				human_uniprot_num>15
+2451	PF00173	0.5				human_uniprot_num>15
+2579	PF01435	0.5		
+2580	PF00550	0.5		g_mix = low
+2581	PF00041	0.5		g_mix = low
+2582	PF00109	0.5		g_mix = bond
+2584	PF05729	0.5		
+2586	PF13191	0.5		
+2587	PF00698	0.5		
+2588	PF08659	0.5		
+2591	PF00754	0.5		
+2592	PF12770	0.5		
+2616	PF00439	0.5		
+2618	PF00975	0.5		
+2619	PF00008	0.5		
+2620	PF00621	0.5		
+2621	PF13086	0.5		
+2623	PF07645	0.5		
+2624	PF12706	0.5		g_mix = bond
+2625	PF00441	0.5		g_mix = bond
+2626	PF03009	0.5		g_mix = bond
+2627	PF00612	0.5		
+2628	PF13091	0.5		g_mix = bond
+2629	PF02771	0.5		
+2630	PF05199	0.5		
+2631	PF13519	0.5		
+2632	PF02463	0.5		g_mix = bond
+2633	PF13359	0.5		
+2634	PF13417	0.5		
+2636	PF06271	0.5		
+2637	PF00732	0.5		
+2638	PF00675	0.5		g_mix = bond
+2639	PF13812	0.5		
+2640	PF01764	0.5		
+2641	PF00112	0.5		
+2644	PF00756	0.5		
+2645	PF00111	0.5		
+2646	PF08534	0.5		g_mix = bond
+2647	PF00028	0.5		
+2648	PF01048	0.5		g_mix = bond
+2652	PF10502	0.5		g_mix = bond
+2660	PF00176	0.5		
+2661	PF02801	0.5		
+2668	PF16197	0.5		
+2670	PF13087	0.5		
+2676	PF14765	0.5		
+2677	PF02368	0.5		
+2678	PF13676	0.5		
+2679	PF01814	0.5		
+2680	PF13174	0.5		
+2681	PF04389	0.5		
+2688	PF01844	0.5		
+2689	PF00037	0.5		
+2690	PF02195	0.5		
+2699	PF01380	0.5		g_mix = bond
+2700	PF01607	0.5		
+2701	PF00320	0.5		
+2702	PF01909	0.5		
+2708	PF04909	0.5		
+2709	PF03992	0.5		
+2710	PF00899	0.5		
+2711	PF05175	0.5		
+2712	PF03781	0.5		
+2746	PF10531	0.5		g_mix = bond
+2747	PF02469	0.5		
+2748	PF00557	0.5		
+2749	PF04434	0.5		g_mix = bond
+2750	PF13176	0.5		
+2760	PF01066	0.5		
+2761	PF00389	0.5		
+2762	PF00717	0.5		
+2763	PF01467	0.5		
+2764	PF02770	0.5		g_mix = bond
+2765	PF13401	0.5		
+2766	PF05368	0.5		
+2767	PF00043	0.5		
+2776	PF01171	0.5		
+2777	PF00075	0.5		
+2778	PF01545	0.5		
+2779	PF01040	0.5		
+2780	PF05970	0.5		
+2781	PF01433	0.5		
+2782	PF01485	0.5		
+2783	PF00588	0.5		
+2786	PF07993	0.5		g_mix = bond
+2787	PF05485	0.5		
+2801	PF00657	0.5		
+2802	PF12838	0.5		
+2804	PF01479	0.5		
+2805	PF00483	0.5		g_mix = bond
+2806	PF00650	0.5		
+2807	PF00857	0.5		
+2837	PF01833	0.5		
+2838	PF00117	0.5		
+2839	PF13640	0.5		
+2840	PF08327	0.5		g_mix = bond
+2849	PF03099	0.5		g_mix = bond
+2861	PF01965	0.5		g_mix = bond
+2873	PF00533	0.5		
+2874	PF00291	0.5		
+2875	PF01243	0.5		
+2884	PF00733	0.5		
+2885	PF12799	0.5		
+2886	PF01612	0.5		g_mix = bond
+2887	PF00383	0.5		g_mix = bond
+2890	PF01263	0.5		
+2891	PF10294	0.5		
+2906	PF00462	0.5		
+2907	PF00488	0.5		
+2908	PF00575	0.5		
+2909	PF17874	0.5		
+2910	PF03184	0.5		
+2911	PF00145	0.5		
+2912	PF01663	0.5		
+2913	PF02931	0.5		
+2914	PF00730	0.5		
+2915	PF17862	0.5		
+2920	PF00891	0.5		
+2921	PF00743	0.5		
+2924	PF03171	0.5		
+2925	PF13240	0.5		
+2926	PF01825	0.9				GPCR
+2928	PF00613	0.9		g_mix = bond	kinase
+2929	PF00690	0.9				transporter
+2930	PF00058	0.9		g_mix = low	receptor
+2934	PF15902	0.9				receptor
+2935	PF07699	0.9		g_mix = low	kinase、receptor
+2936	PF07677	0.9				receptor
+2937	PF00063	0.9		
+2977	PF02210	0.9		g_mix = low
+2978	PF12661	0.9		g_mix = bond
+2979	PF00632	0.9		g_mix = low
+2980	PF00093	0.9		
+2981	PF01437	0.9		g_mix = bond
+2983	PF05986	0.9		
+2984	PF19236	0.9		
+2985	PF02373	0.9		
+2986	PF00435	0.9		g_mix = low
+2987	PF01390	0.9		
+2988	PF00618	0.9		
+2989	PF01576	0.9		
+2990	PF17771	0.9		
+2991	PF17779	0.9		
+2992	PF08441	0.9		
+2993	PF17776	0.9		
+2994	PF00094	0.9		
+2995	PF00689	0.9		
+2997	PF12774	0.9		g_mix = up
+2998	PF02141	0.9		
+2999	PF12780	0.9		g_mix = up
+3000	PF18199	0.9		g_mix = up
+3001	PF00055	0.9		g_mix = bond
+3012	PF02181	0.9		
+3013	PF03810	0.9		
+3015	PF01369	0.9		
+3032	PF01388	0.9		
+3061	PF00780	0.9		
+3062	PF08393	0.9		g_mix = up
+3090	PF12777	0.9		g_mix = up
+3091	PF03028	0.9		
+3093	PF00616	0.9		
+3094	PF17852	0.9		
+3095	PF07974	0.9		
+3096	PF03456	0.9		
+3099	PF00090	0.9		
+3100	PF16492	0.9		
